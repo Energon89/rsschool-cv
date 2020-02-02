@@ -46,7 +46,6 @@ Course: "JavaScript Front-end Development".
 Description: gaining knowledge of the JavaScript programming language:
 learning to “read” the code, sort it out and create web applications on your
 own, using various frameworks and libraries.
-
 September 2007 – June 2012
 Higher Education Establishment, Belarusian National Technical University, Minsk.
 Specialization: Energy Engineer.
