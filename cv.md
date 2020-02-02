@@ -3,11 +3,11 @@
 2. Contact Info:<br/>
 Minsk, Belarus<br/>
 phone: +375291921266<br/>
-email: mailto:podymov89@gmail.com<br/>
+email: <a href="mailto:podymov89@gmail.com">podymov89@gmail.com</a> <br/>
 skype: live:podymov89<br/>
-Linkedin: https://www.linkedin.com/in/evgeni-podymov
+Linkedin: <a href="https://www.linkedin.com/in/evgeni-podymov">www.linkedin.com/in/evgeni-podymov</a>
 
-3. Summary:\
+3. Summary:<br/>
 A Frontend Developer. Specializes in creating code for customer-facing responsive websites using HTML, CSS, JavaScript and related web technologies.<br/>
 I am a motivated person, like challenging tasks and give positive results. I get with the times and the future of information technology.
 
@@ -19,8 +19,8 @@ IDE and tools: Visual Studio Code; Git.<br/>
 Other: AutoCAD, Mathcad.
 
 5. Code examples:<br/>
-Portfolio stackblitz.com: https://stackblitz.com/github/Energon89/stackblitz <br/>
-Repositories github.com: https://github.com/Energon89?tab=repositories
+<a href="https://stackblitz.com/github/Energon89/stackblitz">Portfolio stackblitz.com</a> <br/>
+<a href="https://github.com/Energon89?tab=repositories">Repositories github.com</a>
 
 6. Experience:<br/>
 November 2019 – today<br/>
@@ -32,7 +32,7 @@ Tools and technologies: JavaScript, React Native, Node.JS, Android.<br/><br/>
 April 2019 – August 2019<br/>
 Trainee, Educational Center of HTP.<br/>
 Project role: Frontend developer.<br/>
-Project description: "Energetic-chat" (https://github.com/Energon89/-energetic-chat) is a simple instant messaging application,<br/>
+Project description: <a href="https://github.com/Energon89/-energetic-chat">"Energetic-chat"</a> is a simple instant messaging application,<br/>
 the user is registered and has the ability to exchange messages.<br/>
 Tools and technologies: HTML, CSS, JavaScript, Node.JS, Socket.io.
 
@@ -41,7 +41,7 @@ April 2019 – August 2019<br/>
 Educational Center of HTP.<br/>
 Course: "JavaScript Front-end Development<br/>
 Description: gaining knowledge of the JavaScript programming language: learning to “read” the code, sort it out and create web 
-applications on your own, using various frameworks and libraries.<br/>
+applications on your own, using various frameworks and libraries.<br/><br/>
 September 2007 – June 2012<br/>
 Higher Education Establishment, Belarusian National Technical University, Minsk.<br/>
 Specialization: Energy Engineer.
