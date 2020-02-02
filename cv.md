@@ -26,7 +26,7 @@ Other: AutoCAD, Mathcad.
 November 2019 – today<br/>
 SUBABA.<br/>
 Project role: Full-stack developer.<br/>
-Project: https://subaba.co.il/ <br/>
+Project: <a href="https://subaba.co.il"></a> <br/>
 Tools and technologies: ES6, React, React Native, Node.js, Mongo DB.<br/>
 Tools and technologies: JavaScript, React Native, Node.JS, Android.<br/><br/>
 April 2019 – August 2019<br/>
